@@ -39,11 +39,16 @@ header.hero p {
     color: #00acee;
 }
 
-section {
+main {
     max-width: 800px;
     margin: 40px auto;
     padding: 20px;
+}
+
+section {
     background: white;
+    padding: 20px;
+    margin-bottom: 20px;
     border-left: 5px solid #2c5364;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
