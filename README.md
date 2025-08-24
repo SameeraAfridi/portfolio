@@ -14,6 +14,7 @@ Welcome to my personal portfolio! This website highlights my skills, showcases m
 
 - HTML
 - CSS
+- JS
 
 ## 📄 What’s Included
 
