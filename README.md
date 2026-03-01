@@ -1,8 +1,6 @@
  Personal Portfolio Website
 
-Welcome to my personal portfolio! This website highlights my skills, showcases my projects, and provides ways to connect with me. It is built using **HTML5** and **CSS3**, with a clean and responsive design suitable for all devices.
-
----
+Welcome to my personal portfolio! This website highlights my skills, showcases my projects, and provides ways to connect with me.
 
 🔗 Live Demo
 
